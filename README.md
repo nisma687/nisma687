@@ -6,7 +6,7 @@ Hey, I am Nisma Hossain. I am a full stack mern developer. I consider myself as 
 <p>Know about my experiences <a href="https://github.com/nisma687/nisma687/blob/main/Nisma-Hossain-Resumed-1.pdf">here</a></p>
 <p>⚡ Fun Fact: I love to explore things,helping people to learn from my experience and Travel.I can speak 3 language.</p>
 
-## 💻 Skills
+## 💻 Languages & FrameWorks
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
