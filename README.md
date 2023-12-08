@@ -38,4 +38,8 @@ Hey, I am Nisma Hossain. I am a full stack mern developer. I consider myself as 
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nisma687"><p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nisma687&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+
+
+
