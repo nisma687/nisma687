@@ -1,3 +1,8 @@
+
+![Header](./images/banner.png)
+
+
+
 Hey, I am Nisma Hossain. I am a full stack mern developer. I consider myself as a learner. I aim to learn more about web development and making useful websites. Currently, I am well aware of React, Mongo DB, Express Js, Javascript.
 
 ## 💫 Liitle Bit More About Me
